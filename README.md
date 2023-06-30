@@ -2,9 +2,9 @@
 A one-on-one video chat web application.
 # Tech Stack used
 - Node JS
-- React
+- React JS
 - Yarn
-- Express
+- Express JS
 - Socket.io
 - Nodemon
 # How does the app function?
