@@ -10,5 +10,5 @@ A one-on-one video chat web application.
 #How does the app function?
 (Install dependencies)
 -Initiate the server.js in the background
--Now launch the react app.
+-Now launch the React app.
 
