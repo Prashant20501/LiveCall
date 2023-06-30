@@ -1,0 +1,118 @@
+.container {
+	display: grid;
+	grid-template-columns: 7fr 3fr;
+}
+.headin{
+	background-color: rgb(227, 227, 227);
+	width: fit-content;
+	font-size: 35px;
+	color: #676767;
+	font-weight: 400;
+	padding: 10px;
+	border-radius: 15px;
+	box-shadow: 10px 10px 10px rgb(54, 71, 255);
+	display: inline;
+	margin-top: 5px;
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.logoh{
+	height: 90px;
+	display: inline;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.myvid{
+	border-radius: 17px;
+	box-shadow: 20px 20px 15px rgb(66, 82, 255);
+	margin: 5px;
+}
+.myvid:hover{
+	border-style: solid;
+	border-width: 0.1rem;
+	border-color: #fff;
+}
+.myId {
+	margin-right: 5rem;
+	border-radius: 15px;
+	background: #c9d6ff; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #e2e2e2, #c9d6ff); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(
+		to right,
+		#e2e2e2,
+		#c9d6ff
+	); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    box-shadow: 20px 20px 10px rgb(90, 136, 255);
+	padding: 2rem;
+	display: grid;
+	justify-content: center;
+	align-content: center;
+	
+}
+.myId:hover{
+	box-sizing: border-box;
+	border-style: solid;
+	border-width: 0.1rem;
+}
+.idd{
+	font-weight: 200;
+	font-size: small;
+}
+.call-button {
+	text-align: center;
+	margin-top: 2rem;
+}
+
+.video-container {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	justify-content: center;
+	align-content: center;
+	margin-top: 3rem;
+	margin-left: 10rem;
+}
+.tgg{
+	color: #636363;
+	background-color: rgb(227, 227, 227);
+	font-weight: 400;
+	padding: 5px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-radius: 9px;
+	width: fit-content;
+	margin-left: 100px;
+}
+.nouser{
+	position: absolute;
+	margin-top: 60px;
+	margin-left: 50px;
+	text-align: center;
+	font-size: 30px;
+	color: #fff;
+	
+}
+.nologo{
+	height: 80px;
+	animation: blink 1s linear infinite;
+	animation-direction: alternate;
+}
+@keyframes blink{
+	0%{opacity: 0;}
+	50%{opacity: .3;}
+	100%{opacity: 0.6;}
+	}
+.caller {
+	text-align: center;
+	color: #fff;
+}
+
+body {
+	background: #4776e6; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #8e54e9, #4776e6); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(
+		to right,
+		#3072ff,
+		#739dff
+	); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
