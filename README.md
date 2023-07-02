@@ -59,7 +59,7 @@ Using SOCKET IO allows the server to push updates to the client and vice versa t
 
 1. Open two bash terminals in the root directory.
 2. In the first on execute-
-             npm start
+             - npm start
 - This will start the server by default listening at port 5000.
 3. In the second terminal execute-
              cd frontend
