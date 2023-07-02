@@ -13,15 +13,15 @@ To create a website where you can connect with your friends and have a one-to-on
 
 ##	SOFTWARE REQUIREMENT
 
-•	Node–v16.16.0
-•	Express JS –v4.17.1
-•	Socket.io –v3.1.1
-•	Nodemon –v2.0.7
-•	React JS –17.0.1
-•	Material UI –v4.11.2
-•	Peer JS –v1.3.1
-•	Yarn –v1.22.10
-•	VS Code –v1.75
+#	Node–v16.16.0
+#	Express JS –v4.17.1
+#	Socket.io –v3.1.1
+#	Nodemon –v2.0.7
+#	React JS –17.0.1
+#	Material UI –v4.11.2
+#	Peer JS –v1.3.1
+#	Yarn –v1.22.10
+#	VS Code –v1.75
 
 ##	OVERVIEW OF THE PROJECT
 
