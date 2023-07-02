@@ -1,5 +1,5 @@
-Prashant Singh
-Bachelor of Technology 2024
+Prashant Singh, 
+Bachelor of Technology 2024,
 IIT(ISM) Dhanbad 
 
 # INTRODUCTION TO PROJECT 
