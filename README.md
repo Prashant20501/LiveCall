@@ -46,26 +46,26 @@ Using SOCKET IO allows the server to push updates to the client and vice versa t
 
 ## Downloading dependencies
 
-     1. Open the bash terminal in the root directory.
-     2. Execute command-
+1. Open the bash terminal in the root directory.
+2. Execute command-
         npm install
-        This will install the dependencies for server files.
-     3. Now move to the frontend folder using the command-
+This will install the dependencies for server files.
+3. Now move to the frontend folder using the command-
         cd front end
-     4. Now to install further dependencies use-
+4. Now to install further dependencies use-
         npm install 
 
 ## Launching the app
 
-         1. Open two bash terminals in the root directory.
-         2. In the first on execute-
+1. Open two bash terminals in the root directory.
+2. In the first on execute-
              npm start
-             This will start the server by default listening at port 5000.
-         3. In the second terminal execute-
+This will start the server by default listening at port 5000.
+3. In the second terminal execute-
              cd frontend
              npm start
-            This will launch our react app in its default 3000 port.
-         4. Visit  http://localhost:3000/ in your native browser to access the site.
+This will launch our react app in its default 3000 port.
+4. Visit  http://localhost:3000/ in your native browser to access the site.
 
 
 # Future Enhancements
